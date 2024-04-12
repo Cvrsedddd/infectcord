@@ -1,0 +1,12 @@
+python-decouple 
+discord.py-self==1.9.2
+colorama
+requests
+aiohttp
+psutil
+threaded
+bs4
+art
+python-dateutil
+PyNaCl
+aiofiles
